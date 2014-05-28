@@ -2,6 +2,7 @@
   "name": "josh-taylor/wordpress",
   "description": "Composer project for getting started with wordpress",
   "license": "GPL",
+  "type": "project",
   "repositories": [
     {
       "type": "package",
