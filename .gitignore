@@ -1,0 +1,8 @@
+.DS_Store
+
+# Composer packages
+/wp-config.php
+/vendor/*
+/wp/*
+/wp-content/plugins/*
+
