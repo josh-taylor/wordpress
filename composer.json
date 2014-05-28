@@ -1,6 +1,7 @@
 {
   "name": "josh-taylor/wordpress",
   "description": "Composer project for getting started with wordpress",
+  "license": "GPL",
   "repositories": [
     {
       "type": "package",
