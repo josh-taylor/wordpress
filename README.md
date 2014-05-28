@@ -25,3 +25,7 @@ E.g:
 ...
 ```
 
+## Credits
+
+Thanks to Roots for creating this awesome [blog post](http://roots.io/using-composer-with-wordpress/) on using composer with WordPress.
+
